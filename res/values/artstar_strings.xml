@@ -88,6 +88,5 @@
 
     <!-- ArtStarOS Settings -->
     <string name="artstar_settings_title">ArtStarOS Settings</string>
-    <string name="artstar_settings_summary">Edit</string>
+    <string name="artstar_settings_summary">Ignoring Constraints</string>
 </resources>
-
