@@ -180,4 +180,7 @@ public class Settings extends SettingsActivity {
 
     // ArtStarOS Settings
     public static class ArtstarSettingsActivity extends SettingsActivity {}
+
+    // LiveDisplay
+    public static class LiveDisplaySettingsActivity extends SettingsActivity { /* empty */ }
 }
